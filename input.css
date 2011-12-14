@@ -1,0 +1,19 @@
+input.freshwhite{
+font-size:18px;
+background: url(input-box-white387a.png) left center no-repeat;
+height:43px;
+width:451px;
+border:0px;
+padding-top:10px;
+padding-bottom:3px;
+padding-left:18px;
+margin-right:15px;
+outline: none;
+}
+
+input.freshwhite:hover{
+background: url(input-box-white387b.png) transparent left center no-repeat;
+}
+
+input.freshwhite:focus{
+background: url(input-box-white387a.png) transparent left center no-repeat;
